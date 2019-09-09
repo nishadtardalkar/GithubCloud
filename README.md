@@ -3,7 +3,7 @@
 Had fun writing these scripts.
 Handling data is always so exciting.
 
-[![IMAGE ALT TEXT HERE](https://img.youtube.com/vi/XFs8cucJ764/0.jpg)](https://www.youtube.com/watch?v=gaxqDLieEwg)
+[![IMAGE ALT TEXT HERE](https://img.youtube.com/vi/gaxqDLieEwg/0.jpg)](https://www.youtube.com/watch?v=gaxqDLieEwg)
 
 <br>
 <b>Steps to use</b><br>
